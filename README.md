@@ -43,7 +43,7 @@ features for comfortable reading.
 
 ![s6](https://github.com/ShrutiSoni145/Convert-PDF-To-Epub/blob/master/Screenshots/s6.jpg?raw=true)
 
-## Technology
+## Technologies
 
 **Development Tool:** Visual Studio Code
 
@@ -60,3 +60,7 @@ features for comfortable reading.
 **io Module:** Deal with I/O data.
 
 **tkinter:** For GUI.
+
+
+
+
