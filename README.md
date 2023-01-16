@@ -1,5 +1,5 @@
-## E-book Coverter
-The E-book converter is developed in python language. A pdf file can be converted into
+## E-book Converter
+The E-book Converter is developed in python language. A pdf file can be converted into
 an epub file by the E-book converter. Epub file format contains page bookmarking, passage
 highlighting, resizable fonts, changeable text and background colors, and Text-to-Speech
 features for comfortable reading.
